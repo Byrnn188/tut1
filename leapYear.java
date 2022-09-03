@@ -6,7 +6,7 @@ public class leapYear{
         public static void main(String[] args) {
                
                 //year we want to check
-                int year = 2004;
+                int year = 2022;
                
                 //if year is divisible by 4, it is a leap year
                
